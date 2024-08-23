@@ -6,5 +6,8 @@ Smartphone s1 = new Nokia("123", "XYZ", "145", 64);
 
 Smartphone s2 = new Iphone("456", "XPTO", "147", 64);
 
+s1.Ligar();
 s1.InstalarAplicativo("XP Investimentos");
+
+s2.ReceberLigacao();
 s2.InstalarAplicativo("XP Investimentos");
